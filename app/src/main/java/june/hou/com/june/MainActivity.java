@@ -12,7 +12,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         Log.e("tag","1245");
 
-
+        Log.e("tag", "1245");
         Log.e("tag","1245");
     }
 }
